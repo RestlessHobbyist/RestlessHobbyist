@@ -10,10 +10,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Pretty empty here eh?
-Yeah, NDAs and proprietary software will do that to a man's GitHub 😄
-Hm? Personal projects?...Touche, ya got me there.
-Here, for starters:
-- 🔭 I’m currently working on: [Hacktoberfest](https://hacktoberfest.com/) Oct. 2024 Happy Halloween!
+Pretty empty here eh? <br>
+Yeah, NDAs and proprietary software will do that to a man's GitHub 😄<br>
+Hm? Personal projects?...Touche, ya got me there. <br>
+Here, for starters: <br>
+- 🔭 I’m currently working on: [Hacktoberfest](https://hacktoberfest.com/) Oct. 2024 Happy Halloween! <br>
 
 [![An image of @restlesshobbyist's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/restlesshobbyist)](https://holopin.io/@restlesshobbyist)
